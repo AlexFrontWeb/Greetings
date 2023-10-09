@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Alex from Ukraine, a frontend developer(Vue, React) with 2+ years of experience in developing client-side components and interfaces for web applications
 
